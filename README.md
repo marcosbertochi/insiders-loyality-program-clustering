@@ -30,7 +30,7 @@ My strategy to solve this challenge was:
 
 **Step 09. Convert Model Performance to Business Values:**
 
-**Step 10. Deploy Modelo to Production:**
+**Step 10. Deploy Model to Production:**
 
 # 4. Top 3 Data Insights
 
@@ -57,7 +57,3 @@ My strategy to solve this challenge was:
 # 9. Lessons Learned
 
 # 10. Next Steps to Improve
-
-# LICENSE
-
-# All Rights Reserved - Comunidade DS 2023
